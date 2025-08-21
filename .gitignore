@@ -14,7 +14,6 @@ saved_model/
 data_prepared_for_model/
 *.h5
 *.csv
-model_development/data
 
 # İşletim Sistemi dosyaları
 .DS_Store
