@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+*.env
+
+# Node.js
+node_modules/
+npm-debug.log*
+package-lock.json
+
+# Veri ve Model Dosyaları
+saved_model/
+data_prepared_for_model/
+*.h5
+*.csv
+model_development/data
+
+# İşletim Sistemi dosyaları
+.DS_Store
+Thumbs.db
